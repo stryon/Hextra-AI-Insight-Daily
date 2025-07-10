@@ -4,50 +4,51 @@ type: page
 sidebar:
   exclude: true
 ---
-# Conditions Générales d'Utilisation
 
-*Date d'entrée en vigueur : 1er juin 2025*
+# 服务条款
+
+*生效日期：2025年6月1日*
 
 ---
 
-Bienvenue sur notre site web (ci-après le "**Site**" ou "**nous**"). Avant de te lancer et d'utiliser nos services, prends un instant pour lire attentivement ces conditions générales d'utilisation. En accédant ou en utilisant le Site, tu acceptes et valides automatiquement ces conditions.
+欢迎访问本网站（以下简称“**本站**”或“**我们**”）。请在使用本站服务之前，仔细阅读以下服务条款。您访问或使用本站即表示您同意并接受本条款。
 
-## 1. Présentation des Services
-Le Site propose du contenu et des services d'abonnement payants, genre des articles de blog, des ressources exclusives, des e-books, et des interactions communautaires. Certains trucs sont accessibles uniquement aux abonnés.
+## 1. 服务简介
+本站为用户提供付费订阅内容和会员服务，包括但不限于博客文章、专属资源、电子书、社区互动等。部分内容仅限订阅用户访问。
 
-## 2. Inscription et Compte Utilisateur
-- Faut que tu fournisses une adresse e-mail valide et que tu crées un mot de passe pour t'inscrire.
-- T'es responsable de la sécurité de ton compte et de toutes les activités qui y sont liées. **Interdit** de transférer ou de partager ton compte, c'est clair ?
-- On se réserve le droit de **suspendre ou de clôturer** ton compte si tu ne respectes pas ces conditions.
+## 2. 用户注册与账户
+- 用户需提供有效的电子邮件地址和设置密码以注册账户。
+- 用户应对其账户的安全性和所有活动负责，**禁止**将账户转让或共享。
+- 本站有权在用户违反本条款的情况下，**暂停或终止**其账户。
 
-## 3. Services d'Abonnement Payant
-- Les abonnements sont facturés mensuellement/annuellement, et les tarifs sont clairement indiqués sur la page de paiement.
-- Tous les paiements passent par des plateformes tierces (comme Stripe, PayPal). On ne stocke pas tes infos de paiement, pas de stress.
-- Ton abonnement sera **automatiquement renouvelé**, sauf si tu l'annules avant la fin du cycle de facturation en cours.
-- Sauf si la loi l'exige ou si c'est stipulé autrement lors d'une promo spécifique, **pas de remboursement** une fois le paiement effectué.
+## 3. 付费订阅服务
+- 订阅服务基于月度/年度计费，费用在结算页面明示。
+- 所有付款通过第三方支付平台（如 Stripe、PayPal）完成，本站不存储您的支付信息。
+- 订阅将**自动续费**，除非您在当前计费周期结束前取消。
+- 除非法律强制或在特定促销中另有说明，付款后**不予退款**。
 
-## 4. Utilisation du Contenu et Propriété Intellectuelle
-- Tout le contenu original, c'est **notre propriété intellectuelle**. Tu n'as pas le droit de le copier, de le republier ou de l'utiliser à des fins commerciales sans notre autorisation.
-- T'obtiens juste un **droit d'accès non exclusif et non transférable**, pour ton apprentissage personnel et ta lecture.
-- Si tu veux l'utiliser à des fins commerciales ou le citer en masse, contacte-nous pour avoir le feu vert.
+## 4. 内容使用与知识产权
+- 所有原创内容**版权归本站所有**，未经授权不得复制、转载或用于商业用途。
+- 用户仅获得**非排他、不可转让的访问权**，用于个人学习和阅读。
+- 如需商业用途或大量引用，请联系本站获取授权。
 
-## 5. Règles de Conduite de l'Utilisateur
-- **Interdit** de télécharger, de poster ou de diffuser quoi que ce soit d'illégal, de harcelant, de faux, d'offensant ou qui viole les droits d'autrui.
-- **Interdit** de télécharger en masse, de « scraper » ou de pirater le contenu réservé aux membres via des moyens techniques.
-- On a le droit de supprimer tout contenu inapproprié et de **bannir les utilisateurs qui ne respectent pas les règles**.
+## 5. 用户行为规范
+- **禁止**上传、发布或传播任何非法、骚扰、虚假、攻击性、侵犯他人权利的内容。
+- **禁止**通过技术手段批量下载、抓取、破解会员内容。
+- 本站有权移除不当内容并**封禁违规用户**。
 
-## 6. Modifications et Interruptions de Service
-- On se garde le droit de modifier, de suspendre ou de mettre fin à tout ou partie des services à tout moment, sans préavis.
-- En cas de force majeure, de panne de serveur ou d'interruption d'un service tiers qui rendrait le contenu temporairement inaccessible, le Site **décline toute responsabilité**.
+## 6. 服务变更与中断
+- 我们保留随时更改、暂停或终止部分或全部服务的权利，恕不另行通知。
+- 如因不可抗力、服务器故障或第三方服务中断导致内容暂时无法访问，本站**不承担赔偿责任**。
 
-## 7. Clause de Non-Responsabilité
-- Les infos qu'on fournit sont juste à titre indicatif, elles **ne constituent pas** des conseils professionnels (financiers, juridiques, médicaux, etc.).
-- Le Site **ne pourra pas être tenu responsable** de toute perte directe ou indirecte que tu pourrais subir en utilisant notre contenu ou nos services.
+## 7. 免责声明
+- 本站提供的信息仅供参考，**不构成**任何专业建议（如财务、法律、医疗等）。
+- 对于用户因使用本站内容或服务所产生的任何直接或间接损失，本站**概不负责**。
 
-## 8. Loi Applicable
-- Ces Conditions Générales d'Utilisation sont régies et interprétées selon les lois de l'État de Californie, États-Unis, sans tenir compte de ses principes de conflit de lois.
-- Tout litige découlant de ou lié à ces conditions sera d'abord réglé par une négociation amicale entre les parties. Si ça ne marche pas, tu acceptes de te soumettre à la juridiction exclusive des tribunaux compétents du comté de Santa Clara, Californie.
+## 8. 法律适用
+- 本服务条款适用美国加利福尼亚州法律，并按其解释，不考虑法律冲突原则。
+- 因本条款引起的或与本条款相关的任何争议，双方应首先友好协商解决；若协商未果，您同意提交加利福尼亚州圣克拉拉县具有管辖权的法院解决。
 
-## 9. Contact
-- Si tu as des questions sur ces conditions, n'hésite pas à nous contacter :
-- 📧 **E-mail** : [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
+## 9. 联系方式
+- 如对本条款有任何疑问，请通过以下方式联系我们：
+- 📧 **邮箱**： [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
